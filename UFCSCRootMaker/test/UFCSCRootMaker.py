@@ -1,6 +1,6 @@
 ######################################################################
 #                                                                    #
-# This version works with CMSSW_6_2_X                                #
+# This version works with CMSSW_7_0_X                                #
 #                                                                    #
 ######################################################################
 import FWCore.ParameterSet.Config as cms
